@@ -1,0 +1,13 @@
+/Users/rubenpabo/NetBeansProjects/spring_projects/DAW_M07_EAC3_Solucio_1718S2/src/main/java/cat/xtec/ioc/domain/Device.java
+/Users/rubenpabo/NetBeansProjects/spring_projects/DAW_M07_EAC3_Solucio_1718S2/src/main/java/cat/xtec/ioc/domain/repository/impl/InMemoryDeviceRepository.java
+/Users/rubenpabo/NetBeansProjects/spring_projects/DAW_M07_EAC3_Solucio_1718S2/src/main/java/cat/xtec/ioc/domain/repository/DeviceRepository.java
+/Users/rubenpabo/NetBeansProjects/spring_projects/DAW_M07_EAC3_Solucio_1718S2/src/main/java/cat/xtec/ioc/domain/Tablet.java
+/Users/rubenpabo/NetBeansProjects/spring_projects/DAW_M07_EAC3_Solucio_1718S2/src/main/java/cat/xtec/ioc/controller/SmartShopController.java
+/Users/rubenpabo/NetBeansProjects/spring_projects/DAW_M07_EAC3_Solucio_1718S2/src/main/java/cat/xtec/ioc/domain/Watch.java
+/Users/rubenpabo/NetBeansProjects/spring_projects/DAW_M07_EAC3_Solucio_1718S2/src/main/java/cat/xtec/ioc/service/BuyDeviceService.java
+/Users/rubenpabo/NetBeansProjects/spring_projects/DAW_M07_EAC3_Solucio_1718S2/src/main/java/cat/xtec/ioc/controller/BuyDeviceController.java
+/Users/rubenpabo/NetBeansProjects/spring_projects/DAW_M07_EAC3_Solucio_1718S2/src/main/java/cat/xtec/ioc/service/DeviceService.java
+/Users/rubenpabo/NetBeansProjects/spring_projects/DAW_M07_EAC3_Solucio_1718S2/src/main/java/cat/xtec/ioc/service/impl/DeviceServiceImpl.java
+/Users/rubenpabo/NetBeansProjects/spring_projects/DAW_M07_EAC3_Solucio_1718S2/src/main/java/cat/xtec/ioc/controller/LoginController.java
+/Users/rubenpabo/NetBeansProjects/spring_projects/DAW_M07_EAC3_Solucio_1718S2/src/main/java/cat/xtec/ioc/domain/Mobil.java
+/Users/rubenpabo/NetBeansProjects/spring_projects/DAW_M07_EAC3_Solucio_1718S2/src/main/java/cat/xtec/ioc/service/impl/BuyDeviceServiceImpl.java
